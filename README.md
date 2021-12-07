@@ -3,8 +3,8 @@
 
 
 # 🏷️ Contexto
-Fiz esse projeto a fim de trabalhar métodos assincronos e requisição de APIS com Javascript.
-Finalizei ele em outubro de 2021 no curso Web full stack da Lets code/ Santander coders
+Fiz esse projeto a fim de trabalhar métodos assincronos e requisição de APIS com Javascript.<br>
+Finalizei ele em outubro de 2021 no curso Web full stack da Lets code/ Santander coders.<br>
 Este projeto só foi possível graças a api do FIPE disponibilizado no link
 https://deividfortuna.github.io/fipe/
 <br>
