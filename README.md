@@ -10,7 +10,7 @@ https://deividfortuna.github.io/fipe/
 <br>
 
 
-#🦁 The author
+# 🦁 The author
 Sou um desenvolvedor web de 25 anos, brasileiro, que gosta de ler sobre psicologia, autores russos e jogar League of Legends nas horas vagas.  
 <div> 
   <p>Here's my LinkedIn and Email if you wanto to reach me out<p>
